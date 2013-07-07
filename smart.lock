@@ -1,0 +1,27 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "blade": {},
+      "ng": {},
+      "angular-hammer": {}
+    },
+    "packages": {
+      "blade": {
+        "git": "https://github.com/bminer/meteor-blade.git",
+        "tag": "v3.2.6meteor1",
+        "commit": "f0810fd031781c84a9b5a14fd84c5b9d060ab336"
+      },
+      "ng": {
+        "git": "https://github.com/olanod/ng-meteor.git",
+        "tag": "v0.1.1",
+        "commit": "d8401f51e439dd726473acc59dd0ae0ccf884b6c"
+      },
+      "angular-hammer": {
+        "git": "https://github.com/kievechua/angular-hammer.git",
+        "tag": "v0.1.0",
+        "commit": "5c85625374c3cd214995cdde23d21f1f95c683f3"
+      }
+    }
+  }
+}
