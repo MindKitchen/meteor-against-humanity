@@ -9,4 +9,4 @@ preserve-inputs
 coffeescript
 stylus
 accounts-ui
-accounts-password
+accounts-google
